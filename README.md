@@ -1,5 +1,5 @@
 # Case-Study
-Module 1 Challenge Fintech Case Study
+Module 1 Challenge Fintech Case Study September 1, 2023
 # Title
 
 ## Overview and Origin
