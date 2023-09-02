@@ -1,6 +1,6 @@
 # Case-Study
 Module 1 Challenge Fintech Case Study 
-# Title September 2, 2023
+# Title 
 
 ## Overview and Origin
 
@@ -9,7 +9,7 @@ Betterment
 * When was the company incorporated?
 Betterment was founded in 2008 in New York City. 
 * Who are the founders of the company?
-Betterment was founded by ==Jon Stein==, an Columbia Business School MBA graduate and ==Eli Broverman==, a graduate of the NYU School of Law.
+Betterment was founded by Jon Stein, an Columbia Business School MBA graduate and Eli Broverman, a graduate of the NYU School of Law.
 * How did the idea for the company (or project) come about?
 Jon Stein noticed a gap in the finace sector for high quality financial services for the average American. He designed Betterment to offer a more level playing field for investors from more diverse backgrounds. His app is meant to improve processes in ways that offer more robust financial services and wealth-building outcomes.
 * How is the company funded? How much funding have they received?
