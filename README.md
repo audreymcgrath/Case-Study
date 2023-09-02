@@ -5,14 +5,16 @@ Module 1 Challenge Fintech Case Study
 ## Overview and Origin
 
 * What is the name of the company?
-
+Betterment
 * When was the company incorporated?
-
+Betterment was founded in 2008 in New York City. 
 * Who are the founders of the company?
-
+Betterment was founded by ==Jon Stein==, an Columbia Business School MBA graduate and ==Eli Broverman==, a graduate of the NYU School of Law.
 * How did the idea for the company (or project) come about?
-
+Jon Stein noticed a gap in the finace sector for high quality financial services for the average American. He designed Betterment to offer a more level playing field for investors from more diverse backgrounds. His app is meant to improve processes in ways that offer more robust financial services and wealth-building outcomes.
 * How is the company funded? How much funding have they received?
+Betterment is funded by a total of 26 investors. They have gone through 10 funding rounds. Their current total funding is $435M.
+
 
 
 ## Business Activities
@@ -20,6 +22,7 @@ Module 1 Challenge Fintech Case Study
 * What specific financial problem is the company or project trying to solve?
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+Betterment serves retail investors. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -29,7 +32,7 @@ Module 1 Challenge Fintech Case Study
 ## Landscape
 
 * What domain of the financial industry is the company in?
-
+Betterment is part of the personal investment domain.
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 
 * What are the other major companies in this domain?
